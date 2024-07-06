@@ -54,4 +54,4 @@ Connect to the dataset if required and interact with the dashboard.
 # Conclusion
 This project provides valuable insights into the Netflix content library through interactive visualizations. The Tableau dashboard enables users to explore various aspects of Netflix's catalog, helping to understand content trends and distribution.
 
-Tableau Public Link- 
+Tableau Public Link- https://public.tableau.com/app/profile/hrishabh.rajput/viz/NetflixProject-TableauDashboard_17165045772780/Netflix
